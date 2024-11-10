@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm G O Ashwin Praveen</h1>
-- 📫 How to reach me **ashwinpraveengo@gmail.com**
-
+<p>
+    I'm a passionate full-stack developer dedicated to creating meaningful, user-focused applications. From backend systems to dynamic frontend experiences, I enjoy building applications that are both functional and engaging. With a focus on clean, efficient code, I’m always excited to tackle new challenges and contribute to innovative projects.
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/g-o-ashwin-praveen-493b73202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="g-o-ashwin-praveen-493b73202" height="30" width="40" /></a>
