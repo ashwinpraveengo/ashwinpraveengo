@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashwin Praveen</h1>
+<h1 align="center">Hi 👋, I'm G O Ashwin Praveen</h1>
 
 <p align="center">
   Full Stack Developer | Computer Science Student | Open Source Contributor
@@ -64,7 +64,6 @@
 
 - LinkedIn: https://linkedin.com/in/g-o-ashwin-praveen-493b73202
 - GitHub: https://github.com/ashwinpraveengo
-- Medium: https://medium.com/@Ashwinpraveengo
 
 ---
 
