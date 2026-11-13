@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 396 116" width="396" height="116" role="img" aria-label="FlexaScale — Rl Autoscaler · Kubernetes">
+<title>FlexaScale — Rl Autoscaler · Kubernetes</title>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
+.mono,.mono text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+
+.up{animation:up .7s cubic-bezier(.22,1,.36,1) both}
+@keyframes up{from{opacity:0;transform:translateY(10px)}}
+.fade{animation:fade .8s ease-out both}
+@keyframes fade{from{opacity:0}}
+.pop{transform-box:fill-box;transform-origin:center;animation:pop .6s cubic-bezier(.34,1.56,.64,1) both}
+@keyframes pop{from{transform:scale(0);opacity:0}}
+.ring{fill:none;stroke-width:1.5;opacity:0;transform-box:fill-box;transform-origin:center;animation:ring 3s ease-out infinite}
+@keyframes ring{0%{transform:scale(1);opacity:.75}100%{transform:scale(3.4);opacity:0}}
+
+.pod{animation:pod 6s ease-in-out infinite}
+@keyframes pod{0%{opacity:.16}6%{opacity:1}52%{opacity:1}60%{opacity:.16}100%{opacity:.16}}
+.load{stroke-dasharray:1;animation:load 6s ease-in-out infinite}
+@keyframes load{0%{stroke-dashoffset:1}45%{stroke-dashoffset:0}85%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:0}}
+
+.gl{animation:gl 10s ease-in-out infinite}
+@keyframes gl{0%,100%{transform:translate(0,0)}50%{transform:translate(-18px,8px)}}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111a27"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<radialGradient id="ga"><stop offset="0" stop-color="#22d3ee" stop-opacity="0.24"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<clipPath id="card"><rect width="396" height="116" rx="12"/></clipPath>
+
+</defs>
+
+<rect width="396" height="116" rx="12" fill="url(#bg)"/>
+<g clip-path="url(#card)"><circle class="gl" cx="340" cy="50" r="150" fill="url(#ga)"/><path class="load" pathLength="1" d="M276 40C292 40 296 24 312 26S334 36 346 28S366 18 376 20" fill="none" stroke="#22d3ee" stroke-width="1.6" stroke-linecap="round"/><rect class="pod" style="animation-delay:-6.00s" x="276" y="80" width="12" height="11" rx="3" fill="#22d3ee"/><rect class="pod" style="animation-delay:-5.84s" x="276" y="65" width="12" height="11" rx="3" fill="#22d3ee"/><rect class="pod" style="animation-delay:-5.68s" x="276" y="50" width="12" height="11" rx="3" fill="#22d3ee"/><rect class="pod" style="animation-delay:-5.52s" x="293" y="80" width="12" height="11" rx="3" fill="#22d3ee"/><rect class="pod" style="animation-delay:-5.36s" x="293" y="65" width="12" height="11" rx="3" fill="#22d3ee"/><rect class="pod" style="animation-delay:-5.20s" x="293" y="50" width="12" height="11" rx="3" fill="#22d3ee"/><rect class="pod" style="animation-delay:-5.04s" x="310" y="80" width="12" height="11" rx="3" fill="#22d3ee"/><rect class="pod" style="animation-delay:-4.88s" x="310" y="65" width="12" height="11" rx="3" fill="#22d3ee"/><rect class="pod" style="animation-delay:-4.72s" x="310" y="50" width="12" height="11" rx="3" fill="#22d3ee"/><rect class="pod" style="animation-delay:-4.56s" x="327" y="80" width="12" height="11" rx="3" fill="#22d3ee"/><rect class="pod" style="animation-delay:-4.40s" x="327" y="65" width="12" height="11" rx="3" fill="#22d3ee"/><rect class="pod" style="animation-delay:-4.24s" x="327" y="50" width="12" height="11" rx="3" fill="#22d3ee"/><rect class="pod" style="animation-delay:-4.08s" x="344" y="80" width="12" height="11" rx="3" fill="#22d3ee"/><rect class="pod" style="animation-delay:-3.92s" x="344" y="65" width="12" height="11" rx="3" fill="#22d3ee"/><rect class="pod" style="animation-delay:-3.76s" x="344" y="50" width="12" height="11" rx="3" fill="#22d3ee"/><rect class="pod" style="animation-delay:-3.60s" x="361" y="80" width="12" height="11" rx="3" fill="#22d3ee"/><rect class="pod" style="animation-delay:-3.44s" x="361" y="65" width="12" height="11" rx="3" fill="#22d3ee"/><rect class="pod" style="animation-delay:-3.28s" x="361" y="50" width="12" height="11" rx="3" fill="#22d3ee"/></g>
+<rect x=".5" y=".5" width="395" height="115" rx="11.5" fill="none" stroke="#30363d"/>
+<rect x="22" y="33" width="26" height="3" rx="1.5" fill="#22d3ee"/>
+<text x="22" y="64" font-size="18" font-weight="800" letter-spacing="-.2" fill="#f0f6fc">FlexaScale</text>
+<text class="mono" x="22" y="85" font-size="9.5" letter-spacing=".9" fill="#22d3ee">RL AUTOSCALER · KUBERNETES</text>
+
+</svg>

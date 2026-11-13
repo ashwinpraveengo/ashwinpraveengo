@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 288" width="840" height="288" role="img" aria-label="Timeline 2023–2027. B.Tech CSE · Amrita: CGPA 9.42 · 2023 – 2027, 2023 – 2027. Traboda CyberLabs: Software Developer Intern, Feb 2024 – May 2025. Pupilfirst: Jr. Full Stack Engineer Intern, Feb – Aug 2025. CIR Skill Platform: Team Lead · Django + GraphQL, Apr 2025 – present. Milestones: Evolumin finalist, OLabs runner-up, Wikimedia hackathon, CampusNotes+, FlexaScale.">
+<title>Timeline 2023–2027. B.Tech CSE · Amrita: CGPA 9.42 · 2023 – 2027, 2023 – 2027. Traboda CyberLabs: Software Developer Intern, Feb 2024 – May 2025. Pupilfirst: Jr. Full Stack Engineer Intern, Feb – Aug 2025. CIR Skill Platform: Team Lead · Django + GraphQL, Apr 2025 – present. Milestones: Evolumin finalist, OLabs runner-up, Wikimedia hackathon, CampusNotes+, FlexaScale.</title>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
+.mono,.mono text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+
+.up{animation:up .7s cubic-bezier(.22,1,.36,1) both}
+@keyframes up{from{opacity:0;transform:translateY(10px)}}
+.fade{animation:fade .8s ease-out both}
+@keyframes fade{from{opacity:0}}
+.pop{transform-box:fill-box;transform-origin:center;animation:pop .6s cubic-bezier(.34,1.56,.64,1) both}
+@keyframes pop{from{transform:scale(0);opacity:0}}
+.ring{fill:none;stroke-width:1.5;opacity:0;transform-box:fill-box;transform-origin:center;animation:ring 3s ease-out infinite}
+@keyframes ring{0%{transform:scale(1);opacity:.75}100%{transform:scale(3.4);opacity:0}}
+
+.grow{transform-box:fill-box;transform-origin:left center;animation:grow 1s cubic-bezier(.22,1,.36,1) both}
+@keyframes grow{from{transform:scaleX(0)}}
+.sweep{opacity:0;animation:sweep 4.5s linear infinite}
+@keyframes sweep{0%{transform:translateX(0);opacity:1}70%{transform:translateX(720px);opacity:1}71%,100%{transform:translateX(720px);opacity:0}}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+<linearGradient id="sw" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity="0.45"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="b0"><rect x="232.85" y="53" width="485.59" height="22" rx="6"/></clipPath>
+<clipPath id="b3"><rect x="477.88" y="185" width="240.57" height="22" rx="6"/></clipPath>
+</defs>
+<rect x=".5" y=".5" width="839" height="287" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
+<line x1="292.25" x2="292.25" y1="34" y2="270" stroke="#d0d7de" stroke-dasharray="2 4"/>
+<text class="mono" x="292.25" y="24" font-size="10.5" fill="#59636e" text-anchor="middle">2024</text>
+<line x1="440.75" x2="440.75" y1="34" y2="270" stroke="#d0d7de" stroke-dasharray="2 4"/>
+<text class="mono" x="440.75" y="24" font-size="10.5" fill="#59636e" text-anchor="middle">2025</text>
+<line x1="589.25" x2="589.25" y1="34" y2="270" stroke="#d0d7de" stroke-dasharray="2 4"/>
+<text class="mono" x="589.25" y="24" font-size="10.5" fill="#59636e" text-anchor="middle">2026</text>
+<line x1="737.75" x2="737.75" y1="34" y2="270" stroke="#d0d7de" stroke-dasharray="2 4"/>
+<text class="mono" x="737.75" y="24" font-size="10.5" fill="#59636e" text-anchor="middle">2027</text>
+<text x="24" y="62" font-size="12.5" font-weight="600" fill="#1f2328">B.Tech CSE · Amrita</text>
+<text x="24" y="77" font-size="11" fill="#59636e">CGPA 9.42 · 2023 – 2027</text>
+<rect class="fade" style="animation-delay:0.90s" x="718.44" y="53" width="78.71" height="22" rx="6" fill="#6d28d9" fill-opacity=".05" stroke="#6d28d9" stroke-opacity=".55" stroke-dasharray="4 4"/>
+<g class="grow" style="animation-delay:0.20s"><rect x="232.85" y="53" width="485.59" height="22" rx="6" fill="#6d28d9" fill-opacity=".16" stroke="#6d28d9" stroke-opacity=".75"/></g>
+<g clip-path="url(#b0)"><rect class="sweep" style="animation-delay:1.5s" x="142.85" y="53" width="70" height="22" fill="url(#sw)"/></g>
+<text class="mono fade" style="animation-delay:0.75s" x="242.85" y="67.5" font-size="10.5" fill="#6d28d9">2023 – 2027</text>
+<text x="24" y="106" font-size="12.5" font-weight="600" fill="#1f2328">Traboda CyberLabs</text>
+<text x="24" y="121" font-size="11" fill="#59636e">Software Developer Intern</text>
+<g class="grow" style="animation-delay:0.36s"><rect x="304.13" y="97" width="198.99" height="22" rx="6" fill="#0e7490" fill-opacity=".16" stroke="#0e7490" stroke-opacity=".75"/></g>
+<text class="mono fade" style="animation-delay:0.91s" x="314.13" y="111.5" font-size="10.5" fill="#0e7490">Feb 2024 – May 2025</text>
+<text x="24" y="150" font-size="12.5" font-weight="600" fill="#1f2328">Pupilfirst</text>
+<text x="24" y="165" font-size="11" fill="#59636e">Jr. Full Stack Engineer Intern</text>
+<g class="grow" style="animation-delay:0.52s"><rect x="452.63" y="141" width="87.62" height="22" rx="6" fill="#b45309" fill-opacity=".16" stroke="#b45309" stroke-opacity=".75"/></g>
+<text class="mono fade" style="animation-delay:1.07s" x="549.25" y="155.5" font-size="10.5" fill="#b45309">Feb – Aug 2025</text>
+<text x="24" y="194" font-size="12.5" font-weight="600" fill="#1f2328">CIR Skill Platform</text>
+<text x="24" y="209" font-size="11" fill="#59636e">Team Lead · Django + GraphQL</text>
+<g class="grow" style="animation-delay:0.68s"><rect x="477.88" y="185" width="240.57" height="22" rx="6" fill="#047857" fill-opacity=".16" stroke="#047857" stroke-opacity=".75"/></g>
+<g clip-path="url(#b3)"><rect class="sweep" style="animation-delay:3.0s" x="387.88" y="185" width="70" height="22" fill="url(#sw)"/></g>
+<text class="mono fade" style="animation-delay:1.23s" x="487.88" y="199.5" font-size="10.5" fill="#047857">Apr 2025 – present</text>
+<text x="24" y="246" font-size="12.5" font-weight="600" fill="#1f2328">Milestones</text>
+<text x="24" y="261" font-size="11" fill="#59636e">awards · hackathons · launches</text>
+<line x1="218" x2="812" y1="248" y2="248" stroke="#c3ccd5"/>
+<g transform="translate(409.56 248) rotate(45)"><rect class="pop" style="animation-delay:1.00s" x="-4.5" y="-4.5" width="9" height="9" rx="1.5" fill="#b45309"/></g>
+<text class="fade" style="animation-delay:1.15s" x="409.56" y="235" font-size="10.5" font-weight="600" fill="#3b434b" text-anchor="middle">Evolumin finalist</text>
+<g transform="translate(470.45 248) rotate(45)"><rect class="pop" style="animation-delay:1.14s" x="-4.5" y="-4.5" width="9" height="9" rx="1.5" fill="#b45309"/></g>
+<text class="fade" style="animation-delay:1.29s" x="470.45" y="270" font-size="10.5" font-weight="600" fill="#3b434b" text-anchor="middle">OLabs runner-up</text>
+<g transform="translate(520.94 248) rotate(45)"><rect class="pop" style="animation-delay:1.28s" x="-4.5" y="-4.5" width="9" height="9" rx="1.5" fill="#0e7490"/></g>
+<text class="fade" style="animation-delay:1.43s" x="520.94" y="235" font-size="10.5" font-weight="600" fill="#3b434b" text-anchor="middle">Wikimedia hackathon</text>
+<g transform="translate(569.94 248) rotate(45)"><rect class="pop" style="animation-delay:1.42s" x="-4.5" y="-4.5" width="9" height="9" rx="1.5" fill="#047857"/></g>
+<text class="fade" style="animation-delay:1.57s" x="569.94" y="270" font-size="10.5" font-weight="600" fill="#3b434b" text-anchor="middle">CampusNotes+</text>
+<g transform="translate(708.05 248) rotate(45)"><rect class="pop" style="animation-delay:1.56s" x="-4.5" y="-4.5" width="9" height="9" rx="1.5" fill="#047857"/></g>
+<text class="fade" style="animation-delay:1.71s" x="708.05" y="235" font-size="10.5" font-weight="600" fill="#3b434b" text-anchor="middle">FlexaScale</text>
+<line class="fade" style="animation-delay:1.2s" x1="718.44" x2="718.44" y1="40" y2="214" stroke="#10b981" stroke-width="1.2" stroke-dasharray="3 3"/>
+<circle class="ring" stroke="#10b981" cx="718.44" cy="40" r="3.5"/><circle cx="718.44" cy="40" r="3.5" fill="#10b981"/>
+<text class="mono" x="706.44" y="43.5" font-size="10" fill="#047857" text-anchor="end">now</text>
+</svg>

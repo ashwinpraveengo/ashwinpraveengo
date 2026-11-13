@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 168" width="840" height="168" role="img" aria-label="Let's build something production-ready. Open to software engineering internships and full-time roles, 2027 grad.">
+<title>Let's build something production-ready. Open to software engineering internships and full-time roles, 2027 grad.</title>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
+.mono,.mono text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+
+.up{animation:up .7s cubic-bezier(.22,1,.36,1) both}
+@keyframes up{from{opacity:0;transform:translateY(10px)}}
+.fade{animation:fade .8s ease-out both}
+@keyframes fade{from{opacity:0}}
+.pop{transform-box:fill-box;transform-origin:center;animation:pop .6s cubic-bezier(.34,1.56,.64,1) both}
+@keyframes pop{from{transform:scale(0);opacity:0}}
+.ring{fill:none;stroke-width:1.5;opacity:0;transform-box:fill-box;transform-origin:center;animation:ring 3s ease-out infinite}
+@keyframes ring{0%{transform:scale(1);opacity:.75}100%{transform:scale(3.4);opacity:0}}
+
+.w{fill:none;stroke-width:1.4}
+.w1{animation:w1 9s linear infinite}
+.w2{animation:w2 13s linear infinite}
+.w3{animation:w1 17s linear infinite reverse}
+@keyframes w1{to{transform:translateX(240px)}}
+@keyframes w2{to{transform:translateX(-180px)}}
+.d1{animation:drift 14s ease-in-out infinite}
+@keyframes drift{0%,100%{transform:translate(0,0)}50%{transform:translate(30px,-10px)}}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111a27"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<radialGradient id="ga"><stop offset="0" stop-color="#34d399" stop-opacity="0.24"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></radialGradient>
+<linearGradient id="hl" gradientUnits="userSpaceOnUse" x1="455" y1="0" x2="725" y2="0"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+<linearGradient id="wf" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#34d399" stop-opacity="0"/><stop offset=".5" stop-color="#22d3ee" stop-opacity=".7"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></linearGradient>
+<clipPath id="card"><rect width="840" height="168" rx="18"/></clipPath>
+
+</defs>
+
+<rect width="840" height="168" rx="18" fill="url(#bg)"/>
+<g clip-path="url(#card)">
+<circle class="d1" cx="420" cy="210" r="300" fill="url(#ga)"/>
+<path class="w w1" stroke="#34d399" stroke-opacity=".5" d="M-240 132Q-180 123 -120 132T0 132T120 132T240 132T360 132T480 132T600 132T720 132T840 132T960 132T1080 132"/>
+<path class="w w2" stroke="#22d3ee" stroke-opacity=".4" d="M-180 140Q-135 128 -90 140T0 140T90 140T180 140T270 140T360 140T450 140T540 140T630 140T720 140T810 140T900 140T990 140T1080 140"/>
+<path class="w w3" stroke="#6e7681" stroke-opacity=".35" d="M-240 148Q-180 141 -120 148T0 148T120 148T240 148T360 148T480 148T600 148T720 148T840 148T960 148T1080 148"/>
+</g>
+<rect x=".5" y=".5" width="839" height="167" rx="17.5" fill="none" stroke="#30363d"/>
+<g class="up"><text x="420" y="66" font-size="30" font-weight="800" letter-spacing="-.4" fill="#f0f6fc" text-anchor="middle">Let’s build something <tspan fill="url(#hl)">production-ready.</tspan></text></g>
+<g class="up" style="animation-delay:.15s"><text x="420" y="97" font-size="14" fill="#8b949e" text-anchor="middle">Open to software engineering internships and full-time roles · 2027 grad</text></g>
+
+</svg>

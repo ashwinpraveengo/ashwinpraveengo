@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 178" width="840" height="178" role="img" aria-label="Merged pull requests. ohcnetwork/care_fe: 10 merged (#9410, #10298, #10655, #10773, #10802, #11238, #12304, #12383, #12388, #13037). scribe-org/Scribe-Android: 4 merged (#445, #450, #457, #462).">
+<title>Merged pull requests. ohcnetwork/care_fe: 10 merged (#9410, #10298, #10655, #10773, #10802, #11238, #12304, #12383, #12388, #13037). scribe-org/Scribe-Android: 4 merged (#445, #450, #457, #462).</title>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
+.mono,.mono text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+
+.up{animation:up .7s cubic-bezier(.22,1,.36,1) both}
+@keyframes up{from{opacity:0;transform:translateY(10px)}}
+.fade{animation:fade .8s ease-out both}
+@keyframes fade{from{opacity:0}}
+.pop{transform-box:fill-box;transform-origin:center;animation:pop .6s cubic-bezier(.34,1.56,.64,1) both}
+@keyframes pop{from{transform:scale(0);opacity:0}}
+.ring{fill:none;stroke-width:1.5;opacity:0;transform-box:fill-box;transform-origin:center;animation:ring 3s ease-out infinite}
+@keyframes ring{0%{transform:scale(1);opacity:.75}100%{transform:scale(3.4);opacity:0}}
+
+.main{fill:none;stroke:#6e7681;stroke-opacity:.7;stroke-width:1.6;stroke-linecap:round;stroke-dasharray:1;animation:draw 1.2s ease-out both}
+.br{fill:none;stroke-width:1.6;stroke-linecap:round;stroke-dasharray:1;animation:draw .5s ease-out both}
+@keyframes draw{from{stroke-dashoffset:1}}
+.pulse{fill:none;stroke:#a371f7;stroke-width:4;stroke-linecap:round;stroke-dasharray:.03 2;opacity:0;animation:run 6s linear infinite}
+@keyframes run{0%{stroke-dashoffset:2.03;opacity:0}3%{opacity:1}35%{opacity:1}38%{stroke-dashoffset:1.03;opacity:0}100%{stroke-dashoffset:1.03;opacity:0}}
+@keyframes hit{0%{transform:scale(1);opacity:.9}14%{transform:scale(3);opacity:0}100%{transform:scale(3);opacity:0}}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+
+</defs>
+<rect x=".5" y=".5" width="839" height="177" rx="14" fill="#161b22" stroke="#30363d"/>
+<text class="mono" x="24" y="57" font-size="12" font-weight="600" fill="#f0f6fc">ohcnetwork/care_fe</text>
+<text x="24" y="73" font-size="11" fill="#8b949e">CARE · healthcare DPG · 10 merged</text>
+<path class="main" style="animation-delay:0.00s" pathLength="1" d="M234 58H812"/>
+<path class="pulse" style="animation-delay:2.6s" pathLength="1" d="M234 58H812"/>
+<path class="br" style="animation-delay:0.50s" stroke="#34d399" pathLength="1" d="M240 58C248 58 246 42 254 42C262 42 260 58 268 58"/>
+<circle class="pop" style="animation-delay:0.75s" cx="254" cy="42" r="2.6" fill="#161b22" stroke="#34d399" stroke-width="1.4"/>
+<circle class="ring" stroke="#a371f7" style="animation:hit 6s ease-out 2.73s infinite" cx="268" cy="58" r="4.6"/>
+<circle class="pop" style="animation-delay:0.90s" cx="268" cy="58" r="4.6" fill="#a371f7"/>
+<text class="mono fade" style="animation-delay:1.00s" x="268" y="78" font-size="9.5" fill="#8b949e" text-anchor="middle">#9410</text>
+<path class="br" style="animation-delay:0.63s" stroke="#34d399" pathLength="1" d="M298 58C306 58 304 42 312 42C320 42 318 58 326 58"/>
+<circle class="pop" style="animation-delay:0.88s" cx="312" cy="42" r="2.6" fill="#161b22" stroke="#34d399" stroke-width="1.4"/>
+<circle class="ring" stroke="#a371f7" style="animation:hit 6s ease-out 2.96s infinite" cx="326" cy="58" r="4.6"/>
+<circle class="pop" style="animation-delay:1.03s" cx="326" cy="58" r="4.6" fill="#a371f7"/>
+<text class="mono fade" style="animation-delay:1.13s" x="326" y="78" font-size="9.5" fill="#8b949e" text-anchor="middle">#10298</text>
+<path class="br" style="animation-delay:0.76s" stroke="#34d399" pathLength="1" d="M356 58C364 58 362 42 370 42C378 42 376 58 384 58"/>
+<circle class="pop" style="animation-delay:1.01s" cx="370" cy="42" r="2.6" fill="#161b22" stroke="#34d399" stroke-width="1.4"/>
+<circle class="ring" stroke="#a371f7" style="animation:hit 6s ease-out 3.19s infinite" cx="384" cy="58" r="4.6"/>
+<circle class="pop" style="animation-delay:1.16s" cx="384" cy="58" r="4.6" fill="#a371f7"/>
+<text class="mono fade" style="animation-delay:1.26s" x="384" y="78" font-size="9.5" fill="#8b949e" text-anchor="middle">#10655</text>
+<path class="br" style="animation-delay:0.89s" stroke="#34d399" pathLength="1" d="M414 58C422 58 420 42 428 42C436 42 434 58 442 58"/>
+<circle class="pop" style="animation-delay:1.14s" cx="428" cy="42" r="2.6" fill="#161b22" stroke="#34d399" stroke-width="1.4"/>
+<circle class="ring" stroke="#a371f7" style="animation:hit 6s ease-out 3.42s infinite" cx="442" cy="58" r="4.6"/>
+<circle class="pop" style="animation-delay:1.29s" cx="442" cy="58" r="4.6" fill="#a371f7"/>
+<text class="mono fade" style="animation-delay:1.39s" x="442" y="78" font-size="9.5" fill="#8b949e" text-anchor="middle">#10773</text>
+<path class="br" style="animation-delay:1.02s" stroke="#34d399" pathLength="1" d="M472 58C480 58 478 42 486 42C494 42 492 58 500 58"/>
+<circle class="pop" style="animation-delay:1.27s" cx="486" cy="42" r="2.6" fill="#161b22" stroke="#34d399" stroke-width="1.4"/>
+<circle class="ring" stroke="#a371f7" style="animation:hit 6s ease-out 3.65s infinite" cx="500" cy="58" r="4.6"/>
+<circle class="pop" style="animation-delay:1.42s" cx="500" cy="58" r="4.6" fill="#a371f7"/>
+<text class="mono fade" style="animation-delay:1.52s" x="500" y="78" font-size="9.5" fill="#8b949e" text-anchor="middle">#10802</text>
+<path class="br" style="animation-delay:1.15s" stroke="#34d399" pathLength="1" d="M530 58C538 58 536 42 544 42C552 42 550 58 558 58"/>
+<circle class="pop" style="animation-delay:1.40s" cx="544" cy="42" r="2.6" fill="#161b22" stroke="#34d399" stroke-width="1.4"/>
+<circle class="ring" stroke="#a371f7" style="animation:hit 6s ease-out 3.88s infinite" cx="558" cy="58" r="4.6"/>
+<circle class="pop" style="animation-delay:1.55s" cx="558" cy="58" r="4.6" fill="#a371f7"/>
+<text class="mono fade" style="animation-delay:1.65s" x="558" y="78" font-size="9.5" fill="#8b949e" text-anchor="middle">#11238</text>
+<path class="br" style="animation-delay:1.28s" stroke="#34d399" pathLength="1" d="M588 58C596 58 594 42 602 42C610 42 608 58 616 58"/>
+<circle class="pop" style="animation-delay:1.53s" cx="602" cy="42" r="2.6" fill="#161b22" stroke="#34d399" stroke-width="1.4"/>
+<circle class="ring" stroke="#a371f7" style="animation:hit 6s ease-out 4.11s infinite" cx="616" cy="58" r="4.6"/>
+<circle class="pop" style="animation-delay:1.68s" cx="616" cy="58" r="4.6" fill="#a371f7"/>
+<text class="mono fade" style="animation-delay:1.78s" x="616" y="78" font-size="9.5" fill="#8b949e" text-anchor="middle">#12304</text>
+<path class="br" style="animation-delay:1.41s" stroke="#34d399" pathLength="1" d="M646 58C654 58 652 42 660 42C668 42 666 58 674 58"/>
+<circle class="pop" style="animation-delay:1.66s" cx="660" cy="42" r="2.6" fill="#161b22" stroke="#34d399" stroke-width="1.4"/>
+<circle class="ring" stroke="#a371f7" style="animation:hit 6s ease-out 4.34s infinite" cx="674" cy="58" r="4.6"/>
+<circle class="pop" style="animation-delay:1.81s" cx="674" cy="58" r="4.6" fill="#a371f7"/>
+<text class="mono fade" style="animation-delay:1.91s" x="674" y="78" font-size="9.5" fill="#8b949e" text-anchor="middle">#12383</text>
+<path class="br" style="animation-delay:1.54s" stroke="#34d399" pathLength="1" d="M704 58C712 58 710 42 718 42C726 42 724 58 732 58"/>
+<circle class="pop" style="animation-delay:1.79s" cx="718" cy="42" r="2.6" fill="#161b22" stroke="#34d399" stroke-width="1.4"/>
+<circle class="ring" stroke="#a371f7" style="animation:hit 6s ease-out 4.56s infinite" cx="732" cy="58" r="4.6"/>
+<circle class="pop" style="animation-delay:1.94s" cx="732" cy="58" r="4.6" fill="#a371f7"/>
+<text class="mono fade" style="animation-delay:2.04s" x="732" y="78" font-size="9.5" fill="#8b949e" text-anchor="middle">#12388</text>
+<path class="br" style="animation-delay:1.67s" stroke="#34d399" pathLength="1" d="M762 58C770 58 768 42 776 42C784 42 782 58 790 58"/>
+<circle class="pop" style="animation-delay:1.92s" cx="776" cy="42" r="2.6" fill="#161b22" stroke="#34d399" stroke-width="1.4"/>
+<circle class="ring" stroke="#a371f7" style="animation:hit 6s ease-out 4.79s infinite" cx="790" cy="58" r="4.6"/>
+<circle class="pop" style="animation-delay:2.07s" cx="790" cy="58" r="4.6" fill="#a371f7"/>
+<text class="mono fade" style="animation-delay:2.17s" x="790" y="78" font-size="9.5" fill="#8b949e" text-anchor="middle">#13037</text>
+<text class="mono" x="24" y="131" font-size="12" font-weight="600" fill="#f0f6fc">scribe-org/Scribe-Android</text>
+<text x="24" y="147" font-size="11" fill="#8b949e">Wikimedia hackathon · 4 merged</text>
+<path class="main" style="animation-delay:0.25s" pathLength="1" d="M234 132H812"/>
+<path class="pulse" style="animation-delay:3.8s" pathLength="1" d="M234 132H812"/>
+<path class="br" style="animation-delay:0.75s" stroke="#22d3ee" pathLength="1" d="M240 132C248 132 246 116 254 116C262 116 260 132 268 132"/>
+<circle class="pop" style="animation-delay:1.00s" cx="254" cy="116" r="2.6" fill="#161b22" stroke="#22d3ee" stroke-width="1.4"/>
+<circle class="ring" stroke="#a371f7" style="animation:hit 6s ease-out 3.93s infinite" cx="268" cy="132" r="4.6"/>
+<circle class="pop" style="animation-delay:1.15s" cx="268" cy="132" r="4.6" fill="#a371f7"/>
+<text class="mono fade" style="animation-delay:1.25s" x="268" y="152" font-size="9.5" fill="#8b949e" text-anchor="middle">#445</text>
+<path class="br" style="animation-delay:0.88s" stroke="#22d3ee" pathLength="1" d="M298 132C306 132 304 116 312 116C320 116 318 132 326 132"/>
+<circle class="pop" style="animation-delay:1.13s" cx="312" cy="116" r="2.6" fill="#161b22" stroke="#22d3ee" stroke-width="1.4"/>
+<circle class="ring" stroke="#a371f7" style="animation:hit 6s ease-out 4.16s infinite" cx="326" cy="132" r="4.6"/>
+<circle class="pop" style="animation-delay:1.28s" cx="326" cy="132" r="4.6" fill="#a371f7"/>
+<text class="mono fade" style="animation-delay:1.38s" x="326" y="152" font-size="9.5" fill="#8b949e" text-anchor="middle">#450</text>
+<path class="br" style="animation-delay:1.01s" stroke="#22d3ee" pathLength="1" d="M356 132C364 132 362 116 370 116C378 116 376 132 384 132"/>
+<circle class="pop" style="animation-delay:1.26s" cx="370" cy="116" r="2.6" fill="#161b22" stroke="#22d3ee" stroke-width="1.4"/>
+<circle class="ring" stroke="#a371f7" style="animation:hit 6s ease-out 4.39s infinite" cx="384" cy="132" r="4.6"/>
+<circle class="pop" style="animation-delay:1.41s" cx="384" cy="132" r="4.6" fill="#a371f7"/>
+<text class="mono fade" style="animation-delay:1.51s" x="384" y="152" font-size="9.5" fill="#8b949e" text-anchor="middle">#457</text>
+<path class="br" style="animation-delay:1.14s" stroke="#22d3ee" pathLength="1" d="M414 132C422 132 420 116 428 116C436 116 434 132 442 132"/>
+<circle class="pop" style="animation-delay:1.39s" cx="428" cy="116" r="2.6" fill="#161b22" stroke="#22d3ee" stroke-width="1.4"/>
+<circle class="ring" stroke="#a371f7" style="animation:hit 6s ease-out 4.62s infinite" cx="442" cy="132" r="4.6"/>
+<circle class="pop" style="animation-delay:1.54s" cx="442" cy="132" r="4.6" fill="#a371f7"/>
+<text class="mono fade" style="animation-delay:1.64s" x="442" y="152" font-size="9.5" fill="#8b949e" text-anchor="middle">#462</text>
+<text class="mono fade" style="animation-delay:1.6s" x="812" y="152" font-size="9.5" fill="#8b949e" text-anchor="end">main</text>
+</svg>
