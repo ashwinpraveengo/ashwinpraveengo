@@ -4,7 +4,7 @@
 text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
 .mono,.mono text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
 
-.s{opacity:0;animation:s 5s ease-in-out 1s infinite}
+.s{opacity:0;animation:s 5s ease-in-out 1.0s infinite}
 @keyframes s{0%{transform:translateX(0);opacity:0}8%{opacity:1}34%{transform:translateX(200px);opacity:1}38%,100%{transform:translateX(200px);opacity:0}}
 
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}

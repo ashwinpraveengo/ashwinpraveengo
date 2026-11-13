@@ -20,15 +20,21 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/metrics-light.svg">
-  <img src="assets/metrics-dark.svg" width="100%" alt="CGPA 9.42 / 10 · 1,000+ app downloads · 14 PRs merged upstream · 2 hackathon honors">
+  <img src="assets/metrics-dark.svg" width="100%" alt="1,000+ app downloads · 14 PRs merged upstream · 2 internships · 2 hackathon honors">
 </picture>
 </p>
 
 I'm a Computer Science undergraduate at Amrita Vishwa Vidyapeetham (class of 2027) who likes shipping software that people actually use. So far that means a Flutter audiobook app with **1,000+ downloads**, a Django + GraphQL platform that my university's Corporate & Industry Relations department **runs in production**, and **14 pull requests merged** into open-source projects I don't own.
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"><img src="assets/divider-dark.svg" width="100%" alt=""></picture>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/arcade-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/arcade-light.svg">
+  <img src="assets/arcade-dark.svg" width="100%" alt="Animated arcade loop: a ship clears a formation of 30 bugs row by row while the score climbs to 600, then STAGE CLEAR.">
+</picture>
+</p>
 
-### Experience
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-experience-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-experience-light.svg"><img src="assets/h-experience-dark.svg" width="100%" alt="Experience"></picture>
 
 <p align="center">
 <picture>
@@ -50,9 +56,7 @@ I'm a Computer Science undergraduate at Amrita Vishwa Vidyapeetham (class of 202
 - Built and improved **15+ features** for Priyamvada, a Flutter Sanskrit audiobook app with **1,000+ downloads** on Android and iOS.
 - Worked across the audio player UI, offline storage and production releases with Flutter and Firebase.
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"><img src="assets/divider-dark.svg" width="100%" alt=""></picture>
-
-### Open source
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-opensource-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-opensource-light.svg"><img src="assets/h-opensource-dark.svg" width="100%" alt="Open source"></picture>
 
 <p align="center">
 <picture>
@@ -67,9 +71,7 @@ I'm a Computer Science undergraduate at Amrita Vishwa Vidyapeetham (class of 202
 | [**CARE**](https://github.com/ohcnetwork/care_fe)<br><sub>Healthcare platform · React, TypeScript</sub> | [10&nbsp;PRs](https://github.com/ohcnetwork/care_fe/pulls?q=is%3Apr+author%3Aashwinpraveengo+is%3Amerged) | "Last Modified" details in patient management ([#9410](https://github.com/ohcnetwork/care_fe/pull/9410)) · SBOM data fetching ([#10655](https://github.com/ohcnetwork/care_fe/pull/10655)) · geo-validation fix ([#12304](https://github.com/ohcnetwork/care_fe/pull/12304)) · appointment token card export ([#12383](https://github.com/ohcnetwork/care_fe/pull/12383)) |
 | [**Scribe-Android**](https://github.com/scribe-org/Scribe-Android)<br><sub>Language-learning keyboards · Kotlin</sub> | [4&nbsp;PRs](https://github.com/scribe-org/Scribe-Android/pulls?q=is%3Apr+author%3Aashwinpraveengo+is%3Amerged) | Word-by-word deletion on long-press ([#445](https://github.com/scribe-org/Scribe-Android/pull/445)) · German umlaut key fix ([#450](https://github.com/scribe-org/Scribe-Android/pull/450)) · selected-character indicator in key popups ([#457](https://github.com/scribe-org/Scribe-Android/pull/457)) · UI tests for list interactions ([#462](https://github.com/scribe-org/Scribe-Android/pull/462)) |
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"><img src="assets/divider-dark.svg" width="100%" alt=""></picture>
-
-### Selected projects
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-projects-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-projects-light.svg"><img src="assets/h-projects-dark.svg" width="100%" alt="Selected projects"></picture>
 
 <table>
 <tr>
@@ -118,9 +120,7 @@ Flutter marketplace where students share and sell course notes. Across 16 merged
 </tr>
 </table>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"><img src="assets/divider-dark.svg" width="100%" alt=""></picture>
-
-### Stack
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-stack-light.svg"><img src="assets/h-stack-dark.svg" width="100%" alt="Stack"></picture>
 
 <p align="center">
 <picture>
@@ -130,19 +130,17 @@ Flutter marketplace where students share and sell course notes. Across 16 merged
 </picture>
 </p>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"><img src="assets/divider-dark.svg" width="100%" alt=""></picture>
-
-### Honors and community
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-honors-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-honors-light.svg"><img src="assets/h-honors-dark.svg" width="100%" alt="Honors and community"></picture>
 
 - **Runner-Up, OLabs Hackathon 2025** for [Colaba AI](https://devfolio.co/projects/colaba-ai-5397).
 - **Finalist, Evolumin Hackathon 2024** for [VitaCare](https://github.com/navaneeth0041/vitacare), a Flutter elder-care app with medication reminders, vitals tracking and emergency alerts.
 - **Indic Wikimedia Hackathon, Kochi 2025:** four pull requests to Scribe-Android in three days, all merged.
 - **amFOSS member and mentor:** I guide junior developers through open source, Git workflows and code review.
 
-### Education
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-education-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/h-education-light.svg"><img src="assets/h-education-dark.svg" width="100%" alt="Education"></picture>
 
 <table>
-<tr><td><b>B.Tech, Computer Science and Engineering</b><br><sub>Amrita Vishwa Vidyapeetham, Amritapuri</sub></td><td>2023 – 2027</td><td><b>CGPA 9.42 / 10</b></td></tr>
+<tr><td><b>B.Tech, Computer Science and Engineering</b><br><sub>Amrita Vishwa Vidyapeetham, Amritapuri</sub></td><td>2023 – 2027</td><td>In progress</td></tr>
 <tr><td><b>Class XII, CBSE</b><br><sub>Bharatiya Vidya Bhavan, Kannur</sub></td><td>2023</td><td>95.6%</td></tr>
 <tr><td><b>Class X, CBSE</b><br><sub>Bharatiya Vidya Bhavan, Kannur</sub></td><td>2021</td><td>97.2%</td></tr>
 </table>
